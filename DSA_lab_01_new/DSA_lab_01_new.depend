@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1696530473 source:d:\dsa  projects\dsa_lab_01_new\src\circle.cpp
+	<iostream>
+	"Shape.h"
+	"Shape_2D.h"
+	"Circle.h"
+
+1696526975 d:\dsa  projects\dsa_lab_01_new\include\shape.h
+	<string>
+
+1696526742 d:\dsa  projects\dsa_lab_01_new\include\shape_2d.h
+	"Shape.h"
+
+1696526769 d:\dsa  projects\dsa_lab_01_new\include\circle.h
+	"Shape.h"
+	"Shape_2D.h"
+	<string>
+
+1696530939 source:d:\dsa  projects\dsa_lab_01_new\src\rectangle.cpp
+	<iostream>
+	"Shape.h"
+	"Shape_2D.h"
+	"Rectangle.h"
+
+1696526789 d:\dsa  projects\dsa_lab_01_new\include\rectangle.h
+	"Shape.h"
+	"Shape_2D.h"
+
+1696525878 source:d:\dsa  projects\dsa_lab_01_new\src\shape_2d.cpp
+	<iostream>
+	"Shape.h"
+	"Shape_2D.h"
+
+1696530939 source:d:\dsa  projects\dsa_lab_01_new\src\cube.cpp
+	<iostream>
+	"Shape.h"
+	"Shape_3D.h"
+	"Cube.h"
+
+1696527153 d:\dsa  projects\dsa_lab_01_new\include\shape_3d.h
+	"Shape.h"
+
+1696527191 d:\dsa  projects\dsa_lab_01_new\include\cube.h
+	"Shape.h"
+	"Shape_3D.h"
+
+1696529614 source:d:\dsa  projects\dsa_lab_01_new\main.cpp
+	<iostream>
+	"Shape.h"
+	"Circle.h"
+	"Rectangle.h"
+	"Square.h"
+	"Cube.h"
+	"Sphere.h"
+
+1696527146 d:\dsa  projects\dsa_lab_01_new\include\square.h
+	"Shape.h"
+	"Shape_2D.h"
+
+1696527217 d:\dsa  projects\dsa_lab_01_new\include\sphere.h
+	"Shape.h"
+	"Shape_3D.h"
+
+1696530960 source:d:\dsa  projects\dsa_lab_01_new\src\sphere.cpp
+	<iostream>
+	"Shape.h"
+	"Shape_3D.h"
+	"Sphere.h"
+	<cmath>
+
+1696527263 source:d:\dsa  projects\dsa_lab_01_new\src\shape_3d.cpp
+	<iostream>
+	"Shape.h"
+	"Shape_3D.h"
+
+1696529845 source:d:\dsa  projects\dsa_lab_01_new\src\square.cpp
+	<iostream>
+	"Shape.h"
+	"Shape_2D.h"
+	"Square.h"
+
+1696527373 source:d:\dsa  projects\dsa_lab_01_new\src\shape.cpp
+	<iostream>
+	"Shape.h"
+
